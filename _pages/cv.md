@@ -49,8 +49,3 @@ Skills
 * Software Development
   * C/C++, python, FORTRAN
 * Research & Analysis
-
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
