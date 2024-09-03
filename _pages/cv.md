@@ -11,41 +11,60 @@ redirect_from:
 
 Education
 ======
-* M.S. in Canada, University of Alberta, 2024 - 2027 (expected)
-  * Major: Mechanical Engineering
-* B.E. in China, Sichuan University, 2020 - 2024
-  * Major: Engineering Mechanics (Mechanics-Software Engineering Interdisciplinary Experimental Class)
+* M.Sc. in Mechanical Engineering, University of Alberta, 2024 - Present
+* B.Eng. in Engineering Mechanics & Software Engineering, Sichuan University, 2020 - 2024
+  * Rank: 2/23
   * WAM: 88.94/100
-  * Honors: Second-Class Comprehensive Scholarship (2023), Third-Class Comprehensive Scholarship (2022), Outstanding Undergraduate Graduate (2023), National third prize in the "Certification Cup" Mathematics China Mathematical Modeling Network Challenge (2021), Second-Class Scholarship (2021), Outstanding Student of the College of Architecture and Environment (2021)
 
-Work experience
+Relevant Coursework
 ======
-* Summer 2023: Graduation Intern
-  * China Aerodynamics Research and Development Center
-  * Duties included: Assisting in aerodynamics research and development, data analysis, and supporting the engineering team.
-  
-* Summer 2023: Internship
-  * Tianfu Engineering Numerical Simulation and Software Innovation Center
-  * Duties included: Supporting engineering numerical simulations, software development, and conducting various analyses.
-  
-* Summer 2021: Neutech Internship
-  * Neutech
-  * Duties included: Coding a console-based MP3 player and enhancing practical software programming skills.
+* Computational Mechanics, Mechanics of Materials, Continuum Mechanics, Fluid Mechanics, Elasticity Theory
+* Object-Oriented Programming, Database Systems, Computer Systems
+* Fundamentals of Finite Element Design, Computational Mechanics Programming Practice
 
-* Jan 2022 - Feb 2022: Research Assistant
-  * The Institute for Disaster Management and Reconstruction (IDMR), jointly set up by PolyU and Sichuan University
-  * Duties included: Assisting in research on engineering mechanical characteristics and seepage behavior of rock masses, experimental data processing, and analysis.
+Projects
+======
+* Correction of Borehole Rock Shear Strength Parameters (09/2023 – 06/2024)
+  * Undergraduate Thesis
+  * Developed a novel method for correcting shear strength parameters in borehole rock mechanics.
+  * Utilized PFC3D and FLAC3D to model rock shear behavior around boreholes. Created and calibrated detailed simulations to replicate real-world conditions.
+  * Proposed and implemented a new approach to refine shear strength parameters using random forest algorithms, based on experimental data.
+  * Enhanced prediction accuracy of the shear strength models. The thesis was awarded a high score of 91/100.
 
-* Fall 2021 - Fall 2022: Project Leader
+* 2D Finite Element Analysis Software Development (01/2023 – 07/2023)
+  * Course Project
+  * Designed and implemented a GUI-based 2D finite element analysis software using C++ and QT. The software includes features for 2D modeling, mesh generation, finite element computation, and visualization.
+  * Received an A+ grade for this project.
+
+* Comparative Study of High-Throughput Material Property Calculations and Mechanical Experiments (09/2021 – 10/2022)
   * College Students’ Innovative Entrepreneurial Training Plan Program
-  * Duties included: Leading a project on high-throughput material property calculations and mechanical experiments, developing a high-throughput material property calculation workflow, and securing software copyright.
+  * Conducted high-throughput calculations based on material composition and validated mechanical properties through experiments. Developed a comprehensive workflow for high-throughput material property calculations and created numerical models.
+  * Developed and secured software copyright for "High-Throughput Calculation Software for Material Tensile Constitutive Parameter Fitting," serving as the primary copyright holder.
+  * Published an invention patent titled "A High-Throughput Calculation Method for Fitting Material Tensile Constitutive Parameters," also as the primary patent holder.
 
-Skills
+Research Experience
 ======
-* Mechanics
-  * Numerical Simulation
-    * Abaqus
-    * FLAC3D, PFC3D
-* Software Development
-  * C/C++, python, FORTRAN
-* Research & Analysis
+* Full-time Research Assistant (01/2022 – 02/2022)
+  * The Institute for Disaster Management and Reconstruction (IDMR)
+  * Assisted the Failure Mechanics and Engineering Disaster Prevention Key Laboratory of Sichuan Province in researching the engineering mechanical characteristics and enduring seepage behavior of rock masses at various stratigraphic depths.
+  * Processed and analyzed experimental data, contributing to the laboratory’s research outcomes.
+
+* Freelance Research Assistant (08/2022 – 12/2022)
+  * The Institute for Disaster Management and Reconstruction (IDMR)
+  * Developed small numerical computation platforms for processing and analyzing experimental data.
+  * Provided support to lab members by debugging and refining their computational tools.
+
+Programming Skills
+======
+* Languages: C/C++, Python, FORTRAN
+* Software: Abaqus, JMatPro, PFC3D, FLAC3D, OriginLab
+
+Honors & Awards
+======
+* National Third Prize, "Certification Cup" Mathematics China Mathematical Modeling Challenge (10/2021)
+* Second-Class Scholarship, Sichuan University (10/2021)
+* Outstanding Student, College of Architecture and Environment (10/2022)
+* Second-Class Comprehensive Scholarship, Sichuan University (09/2023)
+* Outstanding Undergraduate Graduate, College of Architecture and Environment (10/2023)
+* Outstanding Graduate, College of Architecture and Environment (04/2024)
+* Outstanding Student, College of Architecture and Environment (04/2024)
